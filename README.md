@@ -1,2 +1,1 @@
-# A Comparative Analysis for Trash Classification
-Using Transfer Learning
+# A Comparative Analysis for Trash Classification Using Transfer Learning
